@@ -12,7 +12,7 @@ churn prediction, and fraud detection on real telecom data.
 Python · Pandas · Scikit-learn · XGBoost · SHAP · Streamlit · Plotly
 
 ## Notebooks
-- [01 - EDA](link)
+- [01 - EDA](https://www.kaggle.com/code/mayssanefzi/notebook3f0b8df42c)
 - [02 - Segmentation](link)
 - [03 - Churn Prediction](link)
 - [04 - Fraud Detection](link)****
